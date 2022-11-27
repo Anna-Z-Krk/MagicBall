@@ -2,6 +2,8 @@
 ##Exercise - lottery ball. Ask a question and there will be random answer.
 The ball knows answer :-)
 
+![Preview:](https://github.com/Anna-Z-Krk/MagicBall/blob/main/magic_ball_prev.png)
+
 Checkout it here: https://anna-z-krk.github.io/MagicBall/
 
 AIM:
