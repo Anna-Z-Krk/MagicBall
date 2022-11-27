@@ -8,7 +8,7 @@ AIM:
 - creating funny lottery of answers with JS
 
 TOOLS:
--Visual Studio Code
+- Visual Studio Code
 - HTML5, CSS3, Vanillia JS
 
 
